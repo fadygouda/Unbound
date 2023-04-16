@@ -1,0 +1,95 @@
+#root {
+  background-image: url("./images/Website_Background.gif");
+  background-size: 100vw 100vh;
+  height: 100vh;
+  position: relative;
+}
+@media (max-width: 1200px) {
+  #root {
+    background-image: url("./images//rescaled-background.gif");
+    background-size: 100vw 100vh;
+  }
+}
+
+@font-face {
+  font-family: "Spindles End";
+  src: url(SpindlesEnd-YqV8.ttf) format("truetype");
+}
+.toolbar {
+  display: flex;
+  flex-direction: column;
+}
+.links-section {
+  display: flex;
+  flex-direction: row;
+  min-width: 100vw;
+  align-items: center;
+}
+@media (max-width: 1200px) {
+  .links-section {
+    flex-direction: column;
+  }
+}
+.links {
+  height: 2rem;
+  width: 2rem;
+  padding: 1rem;
+  max-width: 33vw;
+}
+.link {
+  height: 2rem;
+  width: 2rem;
+}
+.connect-div {
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 17px 33px;
+  gap: 8px;
+
+  width: 123px;
+  height: 48px;
+  left: 1247px;
+  top: 64px;
+
+  background: #000000;
+  border-radius: 10px;
+}
+
+.outside-link {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  min-width: 0vw;
+}
+.connect {
+  display: flex;
+  justify-content: center;
+  min-width: 100vw;
+}
+.inside-button {
+  width: 57px;
+  height: 16px;
+  font-family: "Spindles End";
+  font-style: normal;
+  font-weight: 1000;
+  font-size: 18px;
+  line-height: 16px;
+  color: #ffffff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  background: black;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.none {
+  display: none;
+}
