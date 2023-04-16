@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Unbound/static/css/main.13f85d88.css",
+    "main.js": "/Unbound/static/js/main.fe398384.js",
+    "static/js/787.f68bdb28.chunk.js": "/Unbound/static/js/787.f68bdb28.chunk.js",
+    "static/media/Website_Background.gif": "/Unbound/static/media/Website_Background.d5db6170ef2b766a53dc.gif",
+    "static/media/rescaled-background.gif": "/Unbound/static/media/rescaled-background.9fe737113ed6f4ffa57e.gif",
+    "static/media/SpindlesEnd-YqV8.ttf": "/Unbound/static/media/SpindlesEnd-YqV8.bbd8f120ba95ded807f3.ttf",
+    "static/media/opensea.svg": "/Unbound/static/media/opensea.e3bb150e9c9b74f1d5d47ddbae97d012.svg",
+    "index.html": "/Unbound/index.html",
+    "static/media/twitter.svg": "/Unbound/static/media/twitter.409339671c444d3b8ae201e3685f1f6c.svg",
+    "main.13f85d88.css.map": "/Unbound/static/css/main.13f85d88.css.map",
+    "main.fe398384.js.map": "/Unbound/static/js/main.fe398384.js.map",
+    "787.f68bdb28.chunk.js.map": "/Unbound/static/js/787.f68bdb28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13f85d88.css",
+    "static/js/main.fe398384.js"
+  ]
+}
