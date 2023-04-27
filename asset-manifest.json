@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/Unbound/static/css/main.37a26fa9.css",
-    "main.js": "/Unbound/static/js/main.ca5e49d8.js",
+    "main.css": "/Unbound/static/css/main.56cd2a5b.css",
+    "main.js": "/Unbound/static/js/main.407cfcee.js",
     "static/js/787.f68bdb28.chunk.js": "/Unbound/static/js/787.f68bdb28.chunk.js",
     "static/media/Website_Background.gif": "/Unbound/static/media/Website_Background.d5db6170ef2b766a53dc.gif",
+    "static/media/websitemusic.mp3": "/Unbound/static/media/websitemusic.94442dcedea751d65490.mp3",
     "static/media/resized-3.png": "/Unbound/static/media/resized-3.93cfedf1c165cfd1e5e7.png",
     "static/media/SpindlesEnd-YqV8.ttf": "/Unbound/static/media/SpindlesEnd-YqV8.bbd8f120ba95ded807f3.ttf",
     "static/media/opensea.svg": "/Unbound/static/media/opensea.e3bb150e9c9b74f1d5d47ddbae97d012.svg",
+    "static/media/pause.svg": "/Unbound/static/media/pause.ec30d97dea98bfa51e1f896ebcdfa960.svg",
+    "static/media/play-button.svg": "/Unbound/static/media/play-button.cf40cbd6730dde9ab0fce398eb19a2cf.svg",
     "index.html": "/Unbound/index.html",
     "static/media/twitter.svg": "/Unbound/static/media/twitter.409339671c444d3b8ae201e3685f1f6c.svg",
-    "main.37a26fa9.css.map": "/Unbound/static/css/main.37a26fa9.css.map",
-    "main.ca5e49d8.js.map": "/Unbound/static/js/main.ca5e49d8.js.map",
+    "main.56cd2a5b.css.map": "/Unbound/static/css/main.56cd2a5b.css.map",
+    "main.407cfcee.js.map": "/Unbound/static/js/main.407cfcee.js.map",
     "787.f68bdb28.chunk.js.map": "/Unbound/static/js/787.f68bdb28.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37a26fa9.css",
-    "static/js/main.ca5e49d8.js"
+    "static/css/main.56cd2a5b.css",
+    "static/js/main.407cfcee.js"
   ]
 }
